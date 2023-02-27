@@ -53,7 +53,7 @@ public class HelloController {
     }
     @GetMapping("/")
     public String bootstrap2(){
-        return """
+        return """ 
                 <!doctype html>
                 <html lang="en">
                   <head>
