@@ -14,3 +14,9 @@ java.runtime.version=17
 5. Habilitar deploy automático (según proyecto) y ejecutar Deploy
 
 
+## proveedores cloud
+
+* Heroku --> Java, Spring, PostgresSQL
+* Netlify --> Frontend (React, Angular,...)
+* Vercel --> Frontend (React, Angular,...)
+
