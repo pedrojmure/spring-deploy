@@ -12,3 +12,5 @@ java.runtime.version=17
 3. Subir el proyecto a github desde Intellij IDEA desde la opción VCS -> share project on Github
 4. Desde Heroku, crear app y elegir método GitHub y buscar el repositorio subido
 5. Habilitar deploy automático (según proyecto) y ejecutar Deploy
+
+
